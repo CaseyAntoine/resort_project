@@ -40,8 +40,8 @@ p {
 }
 
 img{
-  display: inline-block;
-  margin: 0px 450px;
+  display: block;
+  margin: 0px auto;
 }
 
 #attractions, h3{
