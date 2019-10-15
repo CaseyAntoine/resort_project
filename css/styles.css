@@ -1,0 +1,26 @@
+body {
+  background-color: skyblue;
+}
+
+#banner {
+  text-align: center;
+  background-image: url("../img/resort1.jpeg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 150px;
+}
+
+#nav {
+  list-style: none;
+}
+
+p {
+  font-size: 1.25em;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img{
+  display: inline-block;
+  float: right;
+}
