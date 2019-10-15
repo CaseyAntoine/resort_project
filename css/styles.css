@@ -1,16 +1,26 @@
 body {
   font-family: 'Montserrat', sans-serif;
+  margin: 0px;
+  padding: 0px;
 }
 
 header {
   text-align: center;
   width: 100%;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  background-color: lightblue;
+}
+header h1 {
+  margin: 0px;
+  padding: 0px;
 }
 
 #wrapper {
   width: 90%;
   height: 1500px;
   padding: 5px;
+  margin-top: 0px;
   margin: 0 auto;
   background-color: #eee;
 }
@@ -20,6 +30,7 @@ header {
   list-style: none;
   background-color: darkred;
   width: 100%;
+  margin-bottom: 0px;
 }
 #nav li{
   display: inline-block;
