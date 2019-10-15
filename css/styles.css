@@ -4,14 +4,31 @@ body {
 
 #banner {
   text-align: center;
-  background-image: url("../img/resort1.jpeg");
+  background-image: url("../img/Resort-banner.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-position:center;
   height: 150px;
 }
 
+#title {
+  background-color: white;
+}
+
 #nav {
+  background-color: salmon;
   list-style: none;
+  margin-top: 85px;
+}
+
+#nav li{
+  padding: 0px 5px;
+  display: inline-block;
+}
+
+#nav li a {
+  font-weight: bold;
+  text-decoration: none;
+  color: Royalblue;
 }
 
 p {
